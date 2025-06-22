@@ -1,0 +1,47 @@
+# Node.js modules
+node_modules/
+
+# Electron/Build output directories
+out/
+dist/
+release/
+build/
+
+# Compiled executable files (Windows)
+*.exe
+*.dll
+*.pdb
+
+# Installer files
+*.nupkg
+*.zip
+*.dmg
+*.deb
+*.rpm
+*.msi
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Visual Studio specific files/folders (if any)
+.vs/
+*.suo
+*.user
+*.log
+*.tlog
+*.cache
+*.bak
+*.[Cc]odeAnalysisLog.xml
+*.scc
+
+# Other common build/temp files
+temp/
+tmp/
+*.tmp
+*.log
