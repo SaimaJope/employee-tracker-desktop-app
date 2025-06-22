@@ -1,4 +1,4 @@
-// preload.js - The final, complete, and fully functional version with all fixes
+// preload.js -
 // preload.js
 window.addEventListener('DOMContentLoaded', () => {
     // === SPLASH SCREEN LOGIC ===
